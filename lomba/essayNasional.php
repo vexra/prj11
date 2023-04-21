@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CPC</title>
+    <title>Essay Nasional</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -38,12 +38,12 @@
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp content-cpc" data-wow-delay="0.1s">
-                <h6 class="text-primary text-uppercase mb-2">Competitive Programming Competition</h6>
+                <h6 class="text-primary text-uppercase mb-2">Essay Nasional</h6>
                 <h1 class="display-6 mb-3 mt-4">Deskripsi Lomba</h1>
                 <p>Competitive Programming Competition adalah lomba pemrograman tingkat nasional yang menguji pemahaman siswa SMA/MA/SMK  sederajat terhadap penggunaan algoritma dan struktur data dalam penyelesaian masalah guna meningkatkan mutu pendidikan di bidang ilmu komputer. </p>
 
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
-                <p>Biaya pendaftaran Competitive Programming Competition sebesar</p>
+                <p>Biaya pendaftaran Essay Nasional sebesar</p>
                 <ul>
                     <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I 10 - 30 September, dan</li>
                     <li>Rp. 75.000./orang untuk pendaftaran Gelombang II 1 - 20 Oktober.</li>
@@ -113,7 +113,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
                         <h6 class="text-primary text-uppercase mb-2">Penghargaan</h6>
-                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba CPC</h1>
+                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Essay Nasional</h1>
                         <div class="row g-2 mb-4 pb-2">
                             <div class="col-sm-10">
                                 <i class="fa fa-check text-primary me-2"></i>Up to Rp. 2.000.000
@@ -127,7 +127,7 @@
                         </div>
                         <div class="row g-4">
                             <div class="col-sm-6">
-                                <a class="btn btn-primary py-3 px-5" href="formCPC.php">Daftar</a>
+                                <a class="btn btn-primary py-3 px-5" href="formEssayNasional.php">Daftar</a>
                             </div>
                             <div class="col-sm-6">
                                 <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="https://bit.ly/JUKNISPRJXHT">

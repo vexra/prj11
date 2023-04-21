@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CPC</title>
+    <title>Photography</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -38,15 +38,15 @@
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp content-cpc" data-wow-delay="0.1s">
-                <h6 class="text-primary text-uppercase mb-2">Competitive Programming Competition</h6>
+                <h6 class="text-primary text-uppercase mb-2">Photography</h6>
                 <h1 class="display-6 mb-3 mt-4">Deskripsi Lomba</h1>
-                <p>Competitive Programming Competition adalah lomba pemrograman tingkat nasional yang menguji pemahaman siswa SMA/MA/SMK  sederajat terhadap penggunaan algoritma dan struktur data dalam penyelesaian masalah guna meningkatkan mutu pendidikan di bidang ilmu komputer. </p>
+                <p>Photography adalah salah satu cabang lomba di bidang non-akademik dalam rangka Hari Ulang Tahun Jurusan Ilmu Komputer Universitas Lampung. Lomba ini bersifat umum guna mengasah kemampuan di bidang non akademik yaitu photography.</p>
 
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
                 <p>Biaya pendaftaran Competitive Programming Competition sebesar</p>
                 <ul>
-                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I 10 - 30 September, dan</li>
-                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II 1 - 20 Oktober.</li>
+                    <li>Rp. 30.000 / orang untuk Pendaftaran Gelombang I 25 September – 8 Oktober 2022, dan</li>
+                    <li>Rp. 35.000 /orang untuk pendaftaran Gelombang II 10 Oktober – 24 Oktober 2022.</li>
                 </ul>
                 <p>Biaya pendaftaran harus diberikan sebelum pendaftaran ditutup dengan transfer melalui :
                 <ul>
@@ -70,6 +70,19 @@
     <div class="container-fluid facts py-5 pt-lg-0">
         <div class="container py-5 pt-lg-0">
             <div class="row gx-0">
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
+                        <div class="d-flex">
+                            <div class="flex-shrink-0 btn-lg-square bg-primary">
+                                <i class="fa fa-clock text-white"></i>
+                            </div>
+                            <div class="ps-4">
+                                <h5>Pengiriman Karya Peserta </h5>
+                                <span>Pengiriman Karya Peserta dilaksanakan pada 25 September – 24 Oktober 2022.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                     <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
                         <div class="d-flex">
@@ -77,8 +90,8 @@
                                 <i class="fa fa-clock text-white"></i>
                             </div>
                             <div class="ps-4">
-                                <h5>Babak Penyisihan</h5>
-                                <span>Babak penyisihan dilaksanakan pada 23 Oktober 2022.</span>
+                                <h5>Penilaian Karya Peserta</h5>
+                                <span>Penilaian Karya Peserta dilaksanakan pada 25 Oktober – 28 Oktober 2022.</span>
                             </div>
                         </div>
                     </div>
@@ -90,8 +103,8 @@
                                 <i class="fa fa-clock text-white"></i>
                             </div>
                             <div class="ps-4">
-                                <h5>Babak Final</h5>
-                                <span>Babak final dilaksanakan pada 27 Oktober 2022.</span>
+                                <h5>Penyeleksian Peserta</h5>
+                                <span>Penyeleksian Peserta Sesuai s&k dilaksanakan pada 28 Oktober 2022.</span>
                             </div>
                         </div>
                     </div>
@@ -107,27 +120,27 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                        <img class="position-absolute w-100 h-100" src="img/cpc1.png" alt="" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="img/fotografi.jpg" alt="" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
                         <h6 class="text-primary text-uppercase mb-2">Penghargaan</h6>
-                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba CPC</h1>
+                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Photography</h1>
                         <div class="row g-2 mb-4 pb-2">
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Up to Rp. 2.000.000
+                                <i class="fa fa-check text-primary me-2"></i>Juara 1 : Rp. 750.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Medali
+                                <i class="fa fa-check text-primary me-2"></i>Juara 2 : Rp. 500.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>E-sertifikat
+                                <i class="fa fa-check text-primary me-2"></i>Juara Favorit : Rp. 250.000
                             </div>
                         </div>
                         <div class="row g-4">
                             <div class="col-sm-6">
-                                <a class="btn btn-primary py-3 px-5" href="formCPC.php">Daftar</a>
+                                <a class="btn btn-primary py-3 px-5" href="formPG.php">Daftar</a>
                             </div>
                             <div class="col-sm-6">
                                 <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="https://bit.ly/JUKNISPRJXHT">
@@ -150,13 +163,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ X HT</a>, 2023
+                    &copy; <a href="../index.php">PRJ X HT</a>, 2022
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Joy (+62 822-1312-4201)</li>
-                        <li>Rina (+62 851-5882-5543)</li>
+                        <li>Franz Kenzo (+62 858-0920-0105)</li>
+                        <li>Nurroh Galbie (+62 858-9687-4544)</li>
                     </ul>
                 </div>
             </div>

@@ -58,8 +58,8 @@
                     <i class="bi bi-exclamation-triangle display-1 text-primary"></i>
                     <h1 class="display-1">404</h1>
                     <h1 class="mb-4">Page Not Found</h1>
-                    <p class="mb-4">We’re sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?</p>
-                    <a class="btn btn-primary py-3 px-5" href="index.php">Go Back To Home</a>
+                    <p class="mb-4">We're sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?</p>
+                    <a class="btn btn-primary py-3 px-5" href="index.php">Back To Origin</a>
                 </div>
             </div>
         </div>
@@ -72,7 +72,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                &copy; <a href="index.php">PRJ X HT</a>, 2022 Copyright
+                &copy; <a href="index.php">PRJ X HT</a>, 2023 Copyright
                 </div>
         </div>
     </div>

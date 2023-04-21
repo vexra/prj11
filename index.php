@@ -64,10 +64,12 @@ require "function.php";
                     <div class="dropdown-menu bg-light m-0">
                         <a href="lomba/lct.php" class="dropdown-item">LCT</a>
                         <a href="lomba/cpc.php" class="dropdown-item">CPC</a>
-                        <a href="lomba/fotograpi.php" class="dropdown-item">Photography</a>
+                        <a href="lomba/fotografi" class="dropdown-item">Photography</a>
+                        <a href="lomba/essayNasional.php" class="dropdown-item">Essay Nasional</a>
                         <a href="lomba/futsal.php" class="dropdown-item">Futsal</a>
-                        <a href="lomba/ml.php" class="dropdown-item">Mobile Legend</a>
                         <a href="lomba/badminton.php" class="dropdown-item">Badminton</a>
+                        <a href="lomba/ml.php" class="dropdown-item">Mobile Legend</a>
+                        <a href="lomba/pes.php" class="dropdown-item">PES</a>
                     </div>
                 </div>
                 <a href="pengumuman" class="nav-item nav-link">Pengumuman Lomba</a>
@@ -97,7 +99,7 @@ require "function.php";
             <?php
             if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
             ?>
-                <a href="login/login.html" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Log In<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="login/login.html" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Sign In<i class="fa fa-arrow-right ms-3"></i></a>
             <?php
             }
             ?>
@@ -117,11 +119,11 @@ require "function.php";
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Meningkatkan Potensi Milenial Cerdas menuju Era Society 5.0</h1>
+                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Bersama Menjadi Generasi Muda Yang Aktif, Inovatif, Dan Berjiwa Enterpreneur Di Era Society 5.0</h1>
                                     <?php
                                     if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
                                     ?>
-                                        <a href="login/login.html" class="btn btn-primary py-sm-3 px-sm-5">Log in</a>
+                                        <a href="login/login.html" class="btn btn-primary py-sm-3 px-sm-5">Sign in</a>
                                         <a href="signUp/signUp.php" class="btn btn-light py-sm-3 px-sm-5 ms-3">Sign Up</a>
                                     <?php
                                     }
@@ -137,7 +139,7 @@ require "function.php";
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Meningkatkan Potensi Milenial Cerdas menuju Era Society 5.0</h1>
+                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Bersama Menjadi Generasi Muda Yang Aktif, Inovatif, Dan Berjiwa Enterpreneur Di Era Society 5.0</h1>
                                     <?php
                                     if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
                                     ?>
@@ -221,7 +223,7 @@ require "function.php";
                     <h6 class="text-primary text-uppercase mb-2">Apa Itu PRJ X HT?</h6>
                     <h1 class="display-6 mb-4">Pekan Raya Jurusan Ilmu Komputer</h1>
                     <p class="mb-3">Dalam rangka Dies Natalis Jurusan, kami ingin mengadakan serangkaian acara besar yang bersifat pengembangan keilmuan sebagai refleksi dari Visi dan Misi FMIPA yang menuntut kami untuk selalu menjujung tinggi tentang penelitian. Dies Natalis Jurusan Ilmu Komputer ini juga merupakan momentum untuk memberikan kesempatan kepada para pelajar dan umum di luar sana khususnya. </p>
-                    <p class="mb-5"> Maka melalui acara ini kami berupaya untuk mengoptimalkan kehidupan saintis dengan kreatifitas yang kaya akan imajinasi dalam memberikan terobosan – terobosan baru bagi perkembangan ilmu pengetahuan dan teknologi. Acara ini juga sebagai ajang motivasi bagi kami untuk menjadi lebih baik, dengan adanya tekad untuk maju dan terus memberikan manfaat bagi civitas akademik Jurusan Ilmu Komputer khususnya dan civitas FMIPA Universitas Lampung. </p>
+                    <p class="mb-5"> Maka melalui acara ini kami berupaya untuk mengoptimalkan kehidupan saintis dengan kreatifitas yang kaya akan imajinasi dalam memberikan terobosan - terobosan baru bagi perkembangan ilmu pengetahuan dan teknologi. Acara ini juga sebagai ajang motivasi bagi kami untuk menjadi lebih baik, dengan adanya tekad untuk maju dan terus memberikan manfaat bagi civitas akademik Jurusan Ilmu Komputer khususnya dan civitas FMIPA Universitas Lampung. </p>
                     <div class="row gy-5 gx-4">
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex align-items-center mb-3">
@@ -319,7 +321,22 @@ require "function.php";
                         <div class="position-relative mt-auto">
                             <img class="img-fluid" src="lomba/img/PG.png" alt="">
                             <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="lomba/fotograpi.php">Read More</a>
+                                <a class="btn btn-outline-primary border-2" href="lomba/fotografi">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                        <div class="text-center p-4 pt-0">
+                            <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">Umum</div>
+                            <h5 class="mb-3">Essay Nasional</h5>
+                            <p>Lomba Essay Nasional adalah lomba...</p>
+                        </div>
+                        <div class="position-relative mt-auto">
+                            <img class="img-fluid" src="lomba/img/PG.png" alt="">
+                            <div class="courses-overlay">
+                                <a class="btn btn-outline-primary border-2" href="lomba/essayNasional.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -341,6 +358,21 @@ require "function.php";
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                            <div class="text-center p-4 pt-0">
+                                <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">SMA dan sederajat</div>
+                                <h5 class="mb-3">Badminton</h5>
+                                <p>Badminton adalah cabang olahraga dalam rangka memperingati hari....</p>
+                            </div>
+                            <div class="position-relative">
+                                <img class="img-fluid" src="lomba/img/BADMINTON.png" alt="">
+                                <div class="courses-overlay">
+                                    <a class="btn btn-outline-primary border-2" href="lomba/badminton.php">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                             <div class="text-center p-4 pt-0">
@@ -356,17 +388,17 @@ require "function.php";
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                             <div class="text-center p-4 pt-0">
-                                <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">SMA dan sederajat</div>
-                                <h5 class="mb-3">Badminton</h5>
-                                <p>Badminton adalah cabang olahraga dalam rangka memperingati hari....</p>
+                                <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">Umum</div>
+                                <h5 class="mb-3">PES</h5>
+                                <p>PES adalah cabang E-Sports dalam rangka....</p>
                             </div>
-                            <div class="position-relative">
-                                <img class="img-fluid" src="lomba/img/BADMINTON.png" alt="">
+                            <div class="position-relative mt-auto">
+                                <img class="img-fluid" src="lomba/img/ML.png" alt="">
                                 <div class="courses-overlay">
-                                    <a class="btn btn-outline-primary border-2" href="lomba/badminton.php">Read More</a>
+                                    <a class="btn btn-outline-primary border-2" href="lomba/pes.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -543,7 +575,7 @@ require "function.php";
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="#">PRJ X HT</a>, 2022 Copyright
+                    &copy; <a href="#">PRJ X HT</a>, 2023 Copyright
                 </div>
             </div>
         </div>

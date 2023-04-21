@@ -359,7 +359,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                &copy; <a href="index.php">PRJ X HT</a>, 2022 Copyright
+                &copy; <a href="index.php">PRJ X HT</a>, 2023 Copyright
                 </div>
         </div>
     </div>
