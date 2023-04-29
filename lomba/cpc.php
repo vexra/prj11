@@ -45,8 +45,8 @@
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
                 <p>Biaya pendaftaran Competitive Programming Competition sebesar</p>
                 <ul>
-                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I 10 - 30 September, dan</li>
-                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II 1 - 20 Oktober.</li>
+                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I XX - XX September, dan</li>
+                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II XX - XX Oktober.</li>
                 </ul>
                 <p>Biaya pendaftaran harus diberikan sebelum pendaftaran ditutup dengan transfer melalui :
                 <ul>
@@ -78,7 +78,7 @@
                             </div>
                             <div class="ps-4">
                                 <h5>Babak Penyisihan</h5>
-                                <span>Babak penyisihan dilaksanakan pada 23 Oktober 2022.</span>
+                                <span>Babak penyisihan dilaksanakan pada XX Oktober 2023.</span>
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                             </div>
                             <div class="ps-4">
                                 <h5>Babak Final</h5>
-                                <span>Babak final dilaksanakan pada 27 Oktober 2022.</span>
+                                <span>Babak final dilaksanakan pada XX Oktober 2023.</span>
                             </div>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ X HT</a>, 2023
+                    &copy; <a href="../index.php">PRJ XI HT</a>, 2023
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
