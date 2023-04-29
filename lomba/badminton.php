@@ -43,7 +43,7 @@
                 <p>Badminton adalah cabang olahraga dalam rangka memperingati hari ulang tahun jurusan ilmu komputer Universitas Lampung. Badminton ini terdiri dari satu atau dua siswa/i kelas X s.d XII SMA Sederajat guna menjaga konsentrasi, melatih fungsi otak dan meningkatkan kekuatan kaki.</p>
 
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
-                <p>Biaya pendaftaran Competitive Programming Competition sebesar</p>
+                <p>Biaya pendaftaran Badminton Competition sebesar</p>
                 <ul>
                     <li>Rp. 125.000./ pasangan ganda.</li>
                     <li>Rp. 75.000./ orangan.</li>
@@ -91,7 +91,7 @@
                             </div>
                             <div class="ps-4">
                                 <h5>Pelaksanaan</h5>
-                                <span>Pelaksanaan dilaksanakan pada 25 - 27 Oktober 2022.</span>
+                                <span>Pelaksanaan dilaksanakan pada XX - XX Oktober 2023.</span>
                             </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ X HT</a>, 2023
+                    &copy; <a href="../index.php">PRJ XI HT</a>, 2023
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
