@@ -45,8 +45,8 @@
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
                 <p>Biaya pendaftaran Essay Nasional sebesar</p>
                 <ul>
-                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I 10 - 30 September, dan</li>
-                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II 1 - 20 Oktober.</li>
+                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I XX - XX September, dan</li>
+                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II XX - XX Oktober.</li>
                 </ul>
                 <p>Biaya pendaftaran harus diberikan sebelum pendaftaran ditutup dengan transfer melalui :
                 <ul>
@@ -150,7 +150,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ X HT</a>, 2023
+                    &copy; <a href="../index.php">PRJ XI HT</a>, 2023
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
