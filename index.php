@@ -99,7 +99,7 @@ require "function.php";
             <?php
             if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
             ?>
-                <a href="login/login.html" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Sign In<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="login/login.html" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Log In<i class="fa fa-arrow-right ms-3"></i></a>
             <?php
             }
             ?>
@@ -123,7 +123,7 @@ require "function.php";
                                     <?php
                                     if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
                                     ?>
-                                        <a href="login/login.html" class="btn btn-primary py-sm-3 px-sm-5">Sign In</a>
+                                        <a href="login/login.html" class="btn btn-primary py-sm-3 px-sm-5">Log In</a>
                                         <a href="signUp/signUp.php" class="btn btn-light py-sm-3 px-sm-5 ms-3">Sign Up</a>
                                     <?php
                                     }
