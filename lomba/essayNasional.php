@@ -150,7 +150,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ XI HT</a>, 2023
+                    &copy; <a href="../index.php">PRJ X HT</a>, 2023 Copyright
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
