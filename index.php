@@ -119,7 +119,7 @@ require "function.php";
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Bersama Menjadi Generasi Muda Yang Aktif, Inovatif, Dan Berjiwa Enterpreneur Di Era Society 5.0</h1>
+                                    <h1 class="display-2 text-light mb-5 animated slideInDown">PRJ X HT</h1>
                                     <?php
                                     if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
                                     ?>
@@ -139,7 +139,7 @@ require "function.php";
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Bersama Menjadi Generasi Muda Yang Aktif, Inovatif, Dan Berjiwa Enterpreneur Di Era Society 5.0</h1>
+                                    <h1 class="display-2 text-light mb-5 animated slideInDown">Ignite: Unleashing the Spark of Youth Potential</h1>
                                     <?php
                                     if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
                                     ?>
@@ -220,10 +220,10 @@ require "function.php";
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h6 class="text-primary text-uppercase mb-2">Apa Itu PRJ X HT?</h6>
-                    <h1 class="display-6 mb-4">Pekan Raya Jurusan Ilmu Komputer</h1>
-                    <p class="mb-3">Dalam rangka Dies Natalis Jurusan, kami ingin mengadakan serangkaian acara besar yang bersifat pengembangan keilmuan sebagai refleksi dari Visi dan Misi FMIPA yang menuntut kami untuk selalu menjujung tinggi tentang penelitian. Dies Natalis Jurusan Ilmu Komputer ini juga merupakan momentum untuk memberikan kesempatan kepada para pelajar dan umum di luar sana khususnya. </p>
-                    <p class="mb-5"> Maka melalui acara ini kami berupaya untuk mengoptimalkan kehidupan saintis dengan kreatifitas yang kaya akan imajinasi dalam memberikan terobosan - terobosan baru bagi perkembangan ilmu pengetahuan dan teknologi. Acara ini juga sebagai ajang motivasi bagi kami untuk menjadi lebih baik, dengan adanya tekad untuk maju dan terus memberikan manfaat bagi civitas akademik Jurusan Ilmu Komputer khususnya dan civitas FMIPA Universitas Lampung. </p>
+                    <h6 class="text-primary text-uppercase mb-2">PRJ X HT</h6>
+                    <h1 class="display-6 mb-4">Ignite: Unleashing the Spark of Youth Potential</h1>
+                    <p class="mb-3">"Ignite: Unleashing the Spark of Youth Potential" adalah acara yang didedikasikan untuk menyalakan semangat, kreativitas, dan potensi dalam diri para pemuda. Tema ini juga menginspirasi individu-individu muda untuk merangkul bakat-bakat unik mereka, mengikuti hasrat mereka, dan percaya pada kemampuan mereka untuk membuat perbedaan. Dengan memberikan kesempatan kepada mereka untuk memamerkan keahlian mereka, belajar dari para pakar industri, dan terhubung dengan rekan-rekan yang berpikiran sama, acara ini bertujuan untuk menyalakan percikan api dalam diri anak muda dan menempatkan mereka di jalan menuju kesuksesan dan kepuasan. </p>
+                    <p class="mb-5">Jadi tunggu apalagi?? Yuk, bergabung dengan PRJxHT XI dengan tema "Ignite: Unleashing the Spark of Youth Potential" dan bersama-sama kita tunjukkan keberanian untuk mengeluarkan bakat dan potensi yang ada di dalam diri kita!! Mari kita berani memulai dan menerangi dunia dengan api semangat pemuda yang membara! </p>
                     <div class="row gy-5 gx-4">
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex align-items-center mb-3">
