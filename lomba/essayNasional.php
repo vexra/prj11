@@ -155,8 +155,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Joy (+62 822-1312-4201)</li>
-                        <li>Rina (+62 851-5882-5543)</li>
+                        <li>Nathania Santa Nigel Simbolon (+62 857-8362-0455)</li>
+                        <li>Annisa Citra Pratiwi (+62 897-2690-905)</li>
                     </ul>
                 </div>
             </div>

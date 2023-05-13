@@ -141,8 +141,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Nasywa Nathania (+62 821‑8195‑9810)</li>
-                        <li>Ferli Malkan (+62 813-7920-1792</li>
+                        <li>Dafa Farhan Haqiqi (+62 859-1953-38649)</li>
+                        <li>Kyla Nisrina Anggrahini (+62 813-7018-1649)</li>
                     </ul>
                 </div>
             </div>

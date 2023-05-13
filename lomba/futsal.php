@@ -157,8 +157,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Mutiara (+62 895-1011-9434)</li>
-                        <li>Wirda Diana (+62895-2023-3288)</li>
+                        <li>Fikri Al-Hafizh (+62 896-2860-5786)</li>
+                        <li>Muhammad Raihan Al Hayya (+62 813-6661-5653)</li>
                     </ul>
                 </div>
             </div>

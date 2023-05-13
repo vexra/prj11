@@ -154,8 +154,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Vina Febriana (+62 878-4326-2318)</li>
-                        <li>Anizar Fadzri (+62 895-6022-12116)</li>
+                        <li>Rafi Ramadhan (+62 812-1863-8343)</li>
+                        <li>Muhammad Sandy Syahputra (+62 812-7222-7516)</li>
                     </ul>
                 </div>
             </div>

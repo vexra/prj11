@@ -168,8 +168,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Franz Kenzo (+62 858-0920-0105)</li>
-                        <li>Nurroh Galbie (+62 858-9687-4544)</li>
+                        <li>Talia Desty Maharani (+62 858-3878-2731)</li>
+                        <li>Kerina Bakarudin (+62 815-4101-8171)</li>
                     </ul>
                 </div>
             </div>

@@ -165,8 +165,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Arib Yusron (+62 895-6315-67196)</li>
-                        <li>Tsaniya Putri (+62896-3228-1433)</li>
+                        <li>Keyvin Jourdan (+62 822-7991-8254)</li>
+                        <li>Gustika Dwi Mardini (+62 878-9924-8741)</li>
                     </ul>
                 </div>
             </div>

@@ -154,8 +154,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Vina Febriana (+62 878-4326-2318)</li>
-                        <li>Anizar Fadzri (+62 895-6022-12116)</li>
+                        <li>Muhammad Bintang Prakasa (+62 813-6873-8854)</li>
+                        <li>Muhammad Hafizh Taufiqurrohman (+62 895-6362-15196)</li>
                     </ul>
                 </div>
             </div>

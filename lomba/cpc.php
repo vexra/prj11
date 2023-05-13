@@ -155,8 +155,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Joy (+62 822-1312-4201)</li>
-                        <li>Rina (+62 851-5882-5543)</li>
+                        <li>Reza Nur Ramadhan (+62 823-7561-9025)</li>
+                        <li>Cakrawangsa Veda Alkautsar (+62 852-7306-6047)</li>
                     </ul>
                 </div>
             </div>
