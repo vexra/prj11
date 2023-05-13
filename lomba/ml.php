@@ -115,13 +115,13 @@
                         <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Mobile Legend</h1>
                         <div class="row g-2 mb-4 pb-2">
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Juara 1 : Rp. Rp. 1.000.000
+                                <i class="bi bi-award me-2" style="color: rgb(214, 175, 54)"></i>Juara 1 : Rp. Rp. 1.000.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Juara 2 : Rp. 750.000
+                                <i class="bi bi-award me-2" style="color: rgb(167, 167, 173)"></i>Juara 2 : Rp. 750.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Juara 3 : Rp. 500.000
+                                <i class="bi bi-award me-2" style="color: rgb(130, 74, 2)"></i>Juara 3 : Rp. 500.000
                             </div>
                         </div>
                         <div class="row g-4">

@@ -116,23 +116,23 @@
                         <h1 class="display-6 mb-4">Hadiah Pemenang Badminton</h1>
                         <div class="row g-2 mb-4 pb-2">
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Ganda, Juara 1 : Uang Tunai Rp. 800.000   + Medali 2 pcs 
+                                <i class="bi bi-award me-2" style="color: rgb(214, 175, 54)"></i>Ganda, Juara 1 : Uang Tunai Rp. 800.000   + Medali 2 pcs 
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Ganda, Juara 2 : Uang Tunai Rp. 500.000  + Medali 2 pcs
+                                <i class="bi bi-award me-2" style="color: rgb(167, 167, 173)"></i>Ganda, Juara 2 : Uang Tunai Rp. 500.000  + Medali 2 pcs
  
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Ganda, Juara 3 : Uang Tunai Rp. 300.000  + Medali 2 pcs
+                                <i class="bi bi-award me-2" style="color: rgb(130, 74, 2)"></i>Ganda, Juara 3 : Uang Tunai Rp. 300.000  + Medali 2 pcs
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-circle text-primary me-2"></i>Tunggal, Juara 1 : Uang Tunai Rp. 650.000 + Medali 
+                                <i class="bi bi-award me-2" style="color: rgb(214, 175, 54)"></i>Tunggal, Juara 1 : Uang Tunai Rp. 650.000 + Medali 
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-circle text-primary me-2"></i>Tunggal, Juara 2 : Uang Tunai Rp. 400.000 + Medali 
+                                <i class="bi bi-award me-2" style="color: rgb(167, 167, 173)"></i>Tunggal, Juara 2 : Uang Tunai Rp. 400.000 + Medali 
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-circle text-primary me-2"></i>Tunggal, Juara 3 : Uang Tunai Rp. 250.000 + Medali 
+                                <i class="bi bi-award me-2" style="color: rgb(130, 74, 2)"></i>Tunggal, Juara 3 : Uang Tunai Rp. 250.000 + Medali 
                             </div>
                         </div>
                         <div class="row g-4">
