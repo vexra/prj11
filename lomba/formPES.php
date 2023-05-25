@@ -50,7 +50,7 @@ if (!isset($_SESSION["login"]) || !$_SESSION["login"]) {
         <a href="javascript:history.back()" type="button" class="btn-back"><i class="bi bi-arrow-left-short"></i><span class="text-dark">Back</span></a>
         <div class="row">
             <div class="col-md-12">
-                <form action="formActionML" method="post" enctype="multipart/form-data">
+                <form action="formActionPES" method="post" enctype="multipart/form-data">
                     <h1> Form Pendaftaran Tim</h1>
 
                     <fieldset>

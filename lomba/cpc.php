@@ -45,8 +45,8 @@
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
                 <p>Biaya pendaftaran Competitive Programming Competition sebesar</p>
                 <ul>
-                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I 10 - 30 September, dan</li>
-                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II 1 - 20 Oktober.</li>
+                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I XX - XX September, dan</li>
+                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II XX - XX Oktober.</li>
                 </ul>
                 <p>Biaya pendaftaran harus diberikan sebelum pendaftaran ditutup dengan transfer melalui :
                 <ul>
@@ -78,7 +78,7 @@
                             </div>
                             <div class="ps-4">
                                 <h5>Babak Penyisihan</h5>
-                                <span>Babak penyisihan dilaksanakan pada 23 Oktober 2022.</span>
+                                <span>Babak penyisihan dilaksanakan pada XX Oktober 2023.</span>
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                             </div>
                             <div class="ps-4">
                                 <h5>Babak Final</h5>
-                                <span>Babak final dilaksanakan pada 27 Oktober 2022.</span>
+                                <span>Babak final dilaksanakan pada XX Oktober 2023.</span>
                             </div>
                         </div>
                     </div>
@@ -150,19 +150,95 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ X HT</a>, 2022
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Joy (+62 822-1312-4201)</li>
-                        <li>Rina (+62 851-5882-5543)</li>
+                        <li>Reza Nur Ramadhan (+62 823-7561-9025)</li>
+                        <li>Cakrawangsa Veda Alkautsar (+62 852-7306-6047)</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
     <!-- Copyright End -->
+
+    <footer class="bg-primary text-center text-lg-start text-white">
+    <!-- Grid container -->
+    <div class="container p-4">
+      <!--Grid row-->
+      <div class="row my-4">
+        <!--Grid column-->
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+
+          <div class="d-flex align-items-center justify-content-center ">
+            <img src="../img/himakom-904x1024-250x283.png" height="70" alt="logo himakom"/>
+          </div>
+
+          <p class="text-center">Himpunan Mahasiswa Jurusan Ilmu Komputer</p>
+
+          <ul class="list-unstyled d-flex flex-row justify-content-center">
+            <li>
+              <a class="text-white px-2" href="https://himakom.fmipa.unila.ac.id/">
+                <i class="fab bi-globe"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white px-2" href="https://line.me/R/ti/p/%40xpm1487l">
+                <i class="fab fa-line"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white px-2" href="https://www.instagram.com/himakomunila">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white ps-2" href="https://www.youtube.com/channel/UCDQq6EJIqdvcsWK2NeXjUkQ">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white ps-2" href="https://twitter.com/Himakom_Unila">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+
+        </div>
+        <!--Grid column-->
+
+
+        <!--Grid column-->
+        <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
+          <h5 class="text-uppercase mb-4">Kontak</h5>
+
+          <ul class="list-unstyled">
+            <li>
+              <p><i class="fas fa-map-marker-alt pe-2"></i>Gedung UKM FMIPA Unila<br />
+                    Jl. Prof. Dr. Ir. Sumantri Brojonegoro No. 1<br />
+                    Gedong Meneng, Kec. Rajabasa, Kota Bandar Lampung, 35145<br />
+                    Lampung, Indonesia</p>
+            </li>
+            <li>
+              <p><i class="fas fa-envelope pe-2 mb-0"></i>himakomputer.unila@gmail.com</p>
+            </li>
+          </ul>
+        </div>
+        <!--Grid column-->
+      </div>
+      <!--Grid row-->
+    </div>
+    <!-- Grid container -->
+
+    <!-- Copyright Start -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+      &copy; 2023 Copyright | 
+      <a class="text-white" href="https://himakom.fmipa.unila.ac.id/">Himakom Unila</a>
+    </div>
+    <!-- Copyright End -->
+  </footer>
+
 
 
     <!-- Back to Top -->

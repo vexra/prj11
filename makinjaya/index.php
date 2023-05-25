@@ -296,7 +296,7 @@
               <form method="POST">
                 <div class="form-floating">
                   <input type="text" class="form-control" id="floatingInput" placeholder="example" name="username" required>
-                  <label for="floatingInput">username</label>
+                  <label for="floatingInput">Username</label>
                 </div>
                 <div class="form-floating">
                   <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password" required>
@@ -319,7 +319,7 @@
                 }
               }
               ?>
-                <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+                <button class="w-100 btn btn-lg btn-primary" type="submit">Log In</button>
                </form>
             </main>
 <?php } ?>

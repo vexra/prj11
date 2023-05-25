@@ -1,10 +1,10 @@
 /********** Template CSS **********/
 
 :root {
-    --primary: #F3BD00;
+    --primary: #01C38D;
     --secondary: #757575;
     --light: #F3F6F8;
-    --dark: #0C2B4B;
+    --dark: #000000;
 }
 
 .py-6 {

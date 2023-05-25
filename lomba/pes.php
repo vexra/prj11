@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Photography</title>
+    <title>Pro Evolution Soccer</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -38,15 +38,14 @@
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp content-cpc" data-wow-delay="0.1s">
-                <h6 class="text-primary text-uppercase mb-2">Photography</h6>
+                <h6 class="text-primary text-uppercase mb-2">Pro Evolution Soccer</h6>
                 <h1 class="display-6 mb-3 mt-4">Deskripsi Lomba</h1>
-                <p>Photography adalah salah satu cabang lomba di bidang non-akademik dalam rangka Hari Ulang Tahun Jurusan Ilmu Komputer Universitas Lampung. Lomba ini bersifat umum guna mengasah kemampuan di bidang non akademik yaitu photography.</p>
+                <p>Pro Evolution Soccer adalah cabang E-Sports dalam rangka memperingati hari ulang tahun Jurusan Ilmu Komputer Universitas Lampung yang bersifat umum. Pro Evolution Soccer merupakan sebuah permainan dengan genre Association Football Simulation Video Games</p>
 
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
-                <p>Biaya pendaftaran Competitive Programming Competition sebesar</p>
+                <p>Biaya pendaftaran Pro Evolution Soccer sebesar</p>
                 <ul>
-                    <li>Rp. 30.000 / orang untuk Pendaftaran Gelombang I 25 September – 8 Oktober 2022, dan</li>
-                    <li>Rp. 35.000 /orang untuk pendaftaran Gelombang II 10 Oktober – 24 Oktober 2022.</li>
+                    <li>Rp. 50.000 /team.</li>
                 </ul>
                 <p>Biaya pendaftaran harus diberikan sebelum pendaftaran ditutup dengan transfer melalui :
                 <ul>
@@ -77,8 +76,8 @@
                                 <i class="fa fa-clock text-white"></i>
                             </div>
                             <div class="ps-4">
-                                <h5>Pengiriman Karya Peserta </h5>
-                                <span>Pengiriman Karya Peserta dilaksanakan pada 25 September – 24 Oktober 2022.</span>
+                                <h5>Pendaftaran</h5>
+                                <span>Pendaftaran dilaksanakan pada 1 September - 22 Oktober 2022.</span>
                             </div>
                         </div>
                     </div>
@@ -90,21 +89,8 @@
                                 <i class="fa fa-clock text-white"></i>
                             </div>
                             <div class="ps-4">
-                                <h5>Penilaian Karya Peserta</h5>
-                                <span>Penilaian Karya Peserta dilaksanakan pada 25 Oktober – 28 Oktober 2022.</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
-                        <div class="d-flex">
-                            <div class="flex-shrink-0 btn-lg-square bg-primary">
-                                <i class="fa fa-clock text-white"></i>
-                            </div>
-                            <div class="ps-4">
-                                <h5>Penyeleksian Peserta</h5>
-                                <span>Penyeleksian Peserta Sesuai s&k dilaksanakan pada 28 Oktober 2022.</span>
+                                <h5>Pelaksanaan</h5>
+                                <span>Pelaksanaan dilaksanakan pada 24 - 26 Oktober 2022.</span>
                             </div>
                         </div>
                     </div>
@@ -120,27 +106,27 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                        <img class="position-absolute w-100 h-100" src="img/fotografi.jpg" alt="" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="img/mobel lejen.jpg" alt="" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
                         <h6 class="text-primary text-uppercase mb-2">Penghargaan</h6>
-                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Photography</h1>
+                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Pro Evolution Soccer</h1>
                         <div class="row g-2 mb-4 pb-2">
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Juara 1 : Rp. 750.000
+                                <i class="bi bi-award me-2" style="color: rgb(214, 175, 54)"></i>Juara 1 : Rp. Rp. 1.000.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Juara 2 : Rp. 500.000
+                                <i class="bi bi-award me-2" style="color: rgb(167, 167, 173)"></i>Juara 2 : Rp. 750.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="fa fa-check text-primary me-2"></i>Juara Favorit : Rp. 250.000
+                                <i class="bi bi-award me-2" style="color: rgb(130, 74, 2)"></i>Juara 3 : Rp. 500.000
                             </div>
                         </div>
                         <div class="row g-4">
                             <div class="col-sm-6">
-                                <a class="btn btn-primary py-3 px-5" href="formPG.php">Daftar</a>
+                                <a class="btn btn-primary py-3 px-5" href="formML.php">Daftar</a>
                             </div>
                             <div class="col-sm-6">
                                 <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="https://bit.ly/JUKNISPRJXHT">
@@ -163,19 +149,94 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-md-start mb-3 mb-md-0 copyright align-middle">
-                    &copy; <a href="../index.php">PRJ X HT</a>, 2022
                 </div>
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Franz Kenzo (+62 858-0920-0105)</li>
-                        <li>Nurroh Galbie (+62 858-9687-4544)</li>
+                        <li>Rafi Ramadhan (+62 812-1863-8343)</li>
+                        <li>Muhammad Sandy Syahputra (+62 812-7222-7516)</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
     <!-- Copyright End -->
+
+    <footer class="bg-primary text-center text-lg-start text-white">
+    <!-- Grid container -->
+    <div class="container p-4">
+      <!--Grid row-->
+      <div class="row my-4">
+        <!--Grid column-->
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+
+          <div class="d-flex align-items-center justify-content-center ">
+            <img src="../img/himakom-904x1024-250x283.png" height="70" alt="logo himakom"/>
+          </div>
+
+          <p class="text-center">Himpunan Mahasiswa Jurusan Ilmu Komputer</p>
+
+          <ul class="list-unstyled d-flex flex-row justify-content-center">
+            <li>
+              <a class="text-white px-2" href="https://himakom.fmipa.unila.ac.id/">
+                <i class="fab bi-globe"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white px-2" href="https://line.me/R/ti/p/%40xpm1487l">
+                <i class="fab fa-line"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white px-2" href="https://www.instagram.com/himakomunila">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white ps-2" href="https://www.youtube.com/channel/UCDQq6EJIqdvcsWK2NeXjUkQ">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </li>
+            <li>
+              <a class="text-white ps-2" href="https://twitter.com/Himakom_Unila">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+
+        </div>
+        <!--Grid column-->
+
+
+        <!--Grid column-->
+        <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
+          <h5 class="text-uppercase mb-4">Kontak</h5>
+
+          <ul class="list-unstyled">
+            <li>
+              <p><i class="fas fa-map-marker-alt pe-2"></i>Gedung UKM FMIPA Unila<br />
+                    Jl. Prof. Dr. Ir. Sumantri Brojonegoro No. 1<br />
+                    Gedong Meneng, Kec. Rajabasa, Kota Bandar Lampung, 35145<br />
+                    Lampung, Indonesia</p>
+            </li>
+            <li>
+              <p><i class="fas fa-envelope pe-2 mb-0"></i>himakomputer.unila@gmail.com</p>
+            </li>
+          </ul>
+        </div>
+        <!--Grid column-->
+      </div>
+      <!--Grid row-->
+    </div>
+    <!-- Grid container -->
+
+    <!-- Copyright Start -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+      &copy; 2023 Copyright | 
+      <a class="text-white" href="https://himakom.fmipa.unila.ac.id/">Himakom Unila</a>
+    </div>
+    <!-- Copyright End -->
+  </footer>
 
 
     <!-- Back to Top -->

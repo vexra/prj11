@@ -711,7 +711,7 @@ print and (-ms-high-contrast:none) {
 
 .bg-yellow-600 {
     --bg-opacity: 1;
-    background-color: #f3bd00;
+    background-color: #01C38D;
     background-color: rgba(243, 189, 0, var(--bg-opacity))
 }
 
@@ -745,7 +745,7 @@ print and (-ms-high-contrast:none) {
 
 .active\:bg-yellow-600:active {
     --bg-opacity: 1;
-    background-color: #f3bd00;
+    background-color: #01C38D;
     background-color: rgba(243, 189, 0, var(--bg-opacity))
 }
 
@@ -861,7 +861,7 @@ print and (-ms-high-contrast:none) {
 
 .border-yellow-600 {
     --border-opacity: 1;
-    border-color:  #f3bd00;
+    border-color:  #01C38D;
     border-color: rgba(243, 189, 0, var(--bg-opacity))
 }
 
@@ -1715,7 +1715,7 @@ print and (-ms-high-contrast:none) {
 
 .text-yellow-600 {
     --text-opacity: 1;
-    color: #f3bd00;
+    color: #01C38D;
     color: rgba(126, 58, 242, var(--text-opacity))
 }
 
@@ -1727,7 +1727,7 @@ print and (-ms-high-contrast:none) {
 
 .focus-within\:text-yellow-600:focus-within {
     --text-opacity: 1;
-    color: #f3bd00;
+    color: #01C38D;
     color: rgba(126, 58, 242, var(--text-opacity))
 }
 
@@ -2137,7 +2137,7 @@ print and (-ms-high-contrast:none) {
 
 .btn-bayar:hover{
     --bg-opacity: 1;
-    background-color: #f3bd00;
+    background-color: #01C38D;
     background-color: rgba(243, 189, 0, var(--bg-opacity));
     color: #fff;
     color: rgba(255, 255, 255, var(--text-opacity));

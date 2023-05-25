@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Mobile Legend</title>
+    <title>Essay Nasional</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -38,14 +38,15 @@
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp content-cpc" data-wow-delay="0.1s">
-                <h6 class="text-primary text-uppercase mb-2">Mobile Legend</h6>
+                <h6 class="text-primary text-uppercase mb-2">Essay Nasional</h6>
                 <h1 class="display-6 mb-3 mt-4">Deskripsi Lomba</h1>
-                <p>Mobile Legends adalah cabang E-Sports dalam rangka memperingati hari ulang tahun Jurusan Ilmu Komputer Universitas Lampung yang bersifat umum. Mobile Legend merupakan sebuah permainan berjenis MOBA (Multiplayer Online Battle Arena)</p>
+                <p>Competitive Programming Competition adalah lomba pemrograman tingkat nasional yang menguji pemahaman siswa SMA/MA/SMK  sederajat terhadap penggunaan algoritma dan struktur data dalam penyelesaian masalah guna meningkatkan mutu pendidikan di bidang ilmu komputer. </p>
 
                 <h1 class="display-6 mb-3 mt-4">Pembayaran</h1>
-                <p>Biaya pendaftaran Mobile Legend sebesar</p>
+                <p>Biaya pendaftaran Essay Nasional sebesar</p>
                 <ul>
-                    <li>Rp. 50.000 /team.</li>
+                    <li>Rp. 60.000./ orang untuk Pendaftaran Gelombang I XX - XX September, dan</li>
+                    <li>Rp. 75.000./orang untuk pendaftaran Gelombang II XX - XX Oktober.</li>
                 </ul>
                 <p>Biaya pendaftaran harus diberikan sebelum pendaftaran ditutup dengan transfer melalui :
                 <ul>
@@ -69,19 +70,6 @@
     <div class="container-fluid facts py-5 pt-lg-0">
         <div class="container py-5 pt-lg-0">
             <div class="row gx-0">
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
-                        <div class="d-flex">
-                            <div class="flex-shrink-0 btn-lg-square bg-primary">
-                                <i class="fa fa-clock text-white"></i>
-                            </div>
-                            <div class="ps-4">
-                                <h5>Pendaftaran</h5>
-                                <span>Pendaftaran dilaksanakan pada 1 September - 22 Oktober 2022.</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                     <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
                         <div class="d-flex">
@@ -89,8 +77,21 @@
                                 <i class="fa fa-clock text-white"></i>
                             </div>
                             <div class="ps-4">
-                                <h5>Pelaksanaan</h5>
-                                <span>Pelaksanaan dilaksanakan pada 24 - 26 Oktober 2022.</span>
+                                <h5>Babak Penyisihan</h5>
+                                <span>Babak penyisihan dilaksanakan pada 23 Oktober 2022.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
+                        <div class="d-flex">
+                            <div class="flex-shrink-0 btn-lg-square bg-primary">
+                                <i class="fa fa-clock text-white"></i>
+                            </div>
+                            <div class="ps-4">
+                                <h5>Babak Final</h5>
+                                <span>Babak final dilaksanakan pada 27 Oktober 2022.</span>
                             </div>
                         </div>
                     </div>
@@ -106,27 +107,27 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                        <img class="position-absolute w-100 h-100" src="img/mobel lejen.jpg" alt="" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="img/cpc1.png" alt="" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
                         <h6 class="text-primary text-uppercase mb-2">Penghargaan</h6>
-                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Mobile Legend</h1>
+                        <h1 class="display-6 mb-4">Hadiah Pemenang Lomba Essay Nasional</h1>
                         <div class="row g-2 mb-4 pb-2">
                             <div class="col-sm-10">
-                                <i class="bi bi-award me-2" style="color: rgb(214, 175, 54)"></i>Juara 1 : Rp. Rp. 1.000.000
+                                <i class="fa fa-check text-primary me-2"></i>Up to Rp. 2.000.000
                             </div>
                             <div class="col-sm-10">
-                                <i class="bi bi-award me-2" style="color: rgb(167, 167, 173)"></i>Juara 2 : Rp. 750.000
+                                <i class="fa fa-check text-primary me-2"></i>Medali
                             </div>
                             <div class="col-sm-10">
-                                <i class="bi bi-award me-2" style="color: rgb(130, 74, 2)"></i>Juara 3 : Rp. 500.000
+                                <i class="fa fa-check text-primary me-2"></i>E-sertifikat
                             </div>
                         </div>
                         <div class="row g-4">
                             <div class="col-sm-6">
-                                <a class="btn btn-primary py-3 px-5" href="formML.php">Daftar</a>
+                                <a class="btn btn-primary py-3 px-5" href="formEssayNasional.php">Daftar</a>
                             </div>
                             <div class="col-sm-6">
                                 <a class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2" href="https://bit.ly/JUKNISPRJXHT">
@@ -153,8 +154,8 @@
                 <div class="col-md-6 text-center text-md-end contact-cpc">
                     <ul>
                         Contact Person:
-                        <li>Muhammad Bintang Prakasa (+62 813-6873-8854)</li>
-                        <li>Muhammad Hafizh Taufiqurrohman (+62 895-6362-15196)</li>
+                        <li>Nathania Santa Nigel Simbolon (+62 857-8362-0455)</li>
+                        <li>Annisa Citra Pratiwi (+62 897-2690-905)</li>
                     </ul>
                 </div>
             </div>
